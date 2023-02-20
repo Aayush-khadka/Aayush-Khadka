@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Khadka</h1>
 <h3 align="center">Currently a Student, learning the ways of Programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="aayushkhadka" /> </p>
+
 
 - 🌱 I’m currently learning **Python**
 
@@ -19,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushkhadka&show_icons=true&locale=en" alt="aayushkhadka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushkhadka&" alt="aayushkhadka" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="aayushkhadka" /> </p>
