@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C-Sharp**
 
 - 📫 How to reach me **Khadkaaayush90@gmail.com**
 
