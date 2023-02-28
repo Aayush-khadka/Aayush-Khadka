@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C-Sharp**
 
-- 📫 How to reach me **Khadkaaayush90@gmail.com**
+- 📫 How to reach me **khadkaaayush@proton.me**
 
 
 
