@@ -17,4 +17,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Khadka&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="aayushkhadka" /> </p>
+
