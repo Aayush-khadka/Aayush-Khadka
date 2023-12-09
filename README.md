@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Khadka</h1>
-<h3 align="center">Currently a Student, learning the ways of Programming.</h3>
+<h3 align="center">Currently a Student.</h3>
 
 
 
-- 🌱 I’m currently learning **C-Sharp**
+- 🌱 
 
 - 📫 How to reach me **khadkaaayush@proton.me**
 
