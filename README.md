@@ -3,9 +3,8 @@
 
 - 📫 How to reach me **khadkaaayush@proton.me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Khadka&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
