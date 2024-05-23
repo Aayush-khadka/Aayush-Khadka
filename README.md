@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayush Khadka</h1>
 
-- 📫 How to reach me **khadkaaayush@proton.me**
+- 📫 How to reach me **khadkaaayush90@gmail.com**
 
 
 
